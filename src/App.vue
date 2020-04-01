@@ -140,8 +140,9 @@
           message: '',
           sendMail: [],
           gender: '',
-          selectedPriority: '',
-          priorities: ['High', 'Medium', 'Low']
+          priorities: ['High', 'Medium', 'Low'],
+          selectedPriority: ''
+          
         }
       }
     }
